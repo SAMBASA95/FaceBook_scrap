@@ -49,7 +49,7 @@ password = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SE
 
 # enter username and password
 username.clear()
-username.send_keys('swapnilukey.sss@gmail.com')
+username.send_keys('asd@gmail.com')
 password.clear()
 password.send_keys('3kgSGNBu4x%;iQ=')
 time.sleep(5)
